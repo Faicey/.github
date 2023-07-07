@@ -1,5 +1,4 @@
 Faicey UIUX design goals
-https://lablab.ai/tech
 
 Objective 1: User-Friendliness
 The primary objective of Faicey's modular UI/UX system is to provide users with a user-friendly interface that promotes ease of use and navigation. The interface should be intuitive, requiring minimal learning curve for users to interact with the system. Clear instructions, well-organized layouts, and visually appealing design elements will be incorporated to enhance user-friendliness.
@@ -20,3 +19,7 @@ Objective 6: Multi-Modal and Multi-Model Integration
 Faicey's modular UI/UX system will support multi-modal and multi-model integration, accommodating various input and output modalities (e.g., text, speech, images) and working seamlessly with multiple generative AI models. The system will provide a unified and consistent user experience regardless of the input or the underlying AI model, enabling users to switch between different modes or models effortlessly.
 
 By focusing on these objectives, Faicey's modular UI/UX system will strive to deliver a user-friendly, highly customizable, and seamlessly integrated interface for users to interact with generative AI models. It will provide real-time feedback, adapt to evolving language models, and ensure a modular, scalable, and fast design.
+
+reference tools
+https://lablab.ai/tech
+https://console.cloud.google.com/vertex-ai/model-garden
