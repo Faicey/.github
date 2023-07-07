@@ -24,7 +24,7 @@ Faicey's modular UI/UX system will support multi-modal and multi-model integrati
 
 By focusing on these objectives, Faicey's modular UI/UX system will strive to deliver a user-friendly, highly customizable, and seamlessly integrated interface for users to interact with generative AI models. It will provide real-time feedback, adapt to evolving language models, and ensure a modular, scalable, and fast design.
 
-reference tools
+reference tools <br />
 https://lablab.ai/tech </br>
 https://console.cloud.google.com/vertex-ai/model-garden <br />
 AGENTS <br /> 
