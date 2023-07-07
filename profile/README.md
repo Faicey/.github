@@ -25,3 +25,5 @@ By focusing on these objectives, Faicey's modular UI/UX system will strive to de
 reference tools
 https://lablab.ai/tech
 https://console.cloud.google.com/vertex-ai/model-garden
+AGENTS
+https://lablab.ai/t/ai-agents-tutorial-how-to-use-and-create-them
