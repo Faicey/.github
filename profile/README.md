@@ -1,6 +1,5 @@
 Faicey UIUX design goals
-
-
+https://lablab.ai/tech
 
 Objective 1: User-Friendliness
 The primary objective of Faicey's modular UI/UX system is to provide users with a user-friendly interface that promotes ease of use and navigation. The interface should be intuitive, requiring minimal learning curve for users to interact with the system. Clear instructions, well-organized layouts, and visually appealing design elements will be incorporated to enhance user-friendliness.
