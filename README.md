@@ -3,7 +3,7 @@ development environment to create a Face for AI code-named Faicey
 
 This repository is being used in conjunction with lablab.ai google vertex ai hackathon.
 
-proposal: the current interface to language models will be improved using machine learning tools
+proposal: the current interface to language models will be improved using machine learning tools <br />
 secondary proposal: autonomous agent Jaimla https://github.com/Jaimla
 
 https://lablab.ai/event/google-vertex-ai-hackathon
