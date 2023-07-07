@@ -27,10 +27,15 @@ By focusing on these objectives, Faicey's modular UI/UX system will strive to de
 reference tools
 https://lablab.ai/tech </br>
 https://console.cloud.google.com/vertex-ai/model-garden <br />
-AGENTS
+AGENTS <br /> 
 https://lablab.ai/t/ai-agents-tutorial-how-to-use-and-create-them<br />
 HACKATHONS <br /> 
-https://lablab.ai/event/ai-agents-hackathon-2
-https://lablab.ai/event/eleven-labs-ai-hackathon
-WHISPER
-https://lablab.ai/t/whisper-tutorial
+https://lablab.ai/event/ai-agents-hackathon-2 <br /> 
+https://lablab.ai/event/eleven-labs-ai-hackathon <br /> 
+WHISPER <br /> 
+https://lablab.ai/t/whisper-tutorial <br />
+
+RELATED projects <br /> 
+https://github.com/DeltaVML <br /> 
+https://githhub.com/aiosml <br /> 
+https://github.com/Jaimla
