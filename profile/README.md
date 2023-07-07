@@ -1,4 +1,7 @@
 Faicey UIUX design goals
+UIUX AIML modular response system
+At a hight level Faicey is conceptuatlized as a UIUX AIML modular response system where UIUX = user interface user experience and AIML = Artificial Intelligence Machine Learning
+
 
 Objective 1: User-Friendliness
 The primary objective of Faicey's modular UI/UX system is to provide users with a user-friendly interface that promotes ease of use and navigation. The interface should be intuitive, requiring minimal learning curve for users to interact with the system. Clear instructions, well-organized layouts, and visually appealing design elements will be incorporated to enhance user-friendliness.
