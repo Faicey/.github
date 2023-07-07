@@ -28,3 +28,5 @@ https://console.cloud.google.com/vertex-ai/model-garden <br />
 AGENTS
 https://lablab.ai/t/ai-agents-tutorial-how-to-use-and-create-them<br />
 https://lablab.ai/event/ai-agents-hackathon-2
+WHISPER
+https://lablab.ai/t/whisper-tutorial
