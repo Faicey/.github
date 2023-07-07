@@ -41,4 +41,5 @@ https://lablab.ai/t/whisper-tutorial <br />
 RELATED projects <br /> 
 https://github.com/DeltaVML <br /> 
 https://githhub.com/aiosml <br /> 
-https://github.com/Jaimla
+https://github.com/Jaimla <br />
+https://ai.google/build/machine-learning
