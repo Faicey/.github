@@ -4,10 +4,10 @@ development environment to create a Face for AI code-named Faicey
 This repository is being used in conjunction with lablab.ai google vertex ai hackathon.
 This project started out as a solo mission with a team of language models. Join if you can find me on discord.
 
-This project is working in conjunction with https://github.com/mlodular where mlodular is a repository of drag and drop events interfaces
+This project is working in conjunction with https://github.com/mlodular where mlodular is a repository of drag and drop events interfaces. Faice will also provide the UIUX for autonomous agent Jaimla https://github.com/Jaimla
 
 proposal: the current interface to language models will be improved using machine learning tools <br />
-secondary proposal: autonomous agent Jaimla https://github.com/Jaimla
+
 
 https://lablab.ai/event/google-vertex-ai-hackathon
 
