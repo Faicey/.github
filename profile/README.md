@@ -1,4 +1,4 @@
-Faicey UIUX design goals <br />
+Faice UIUX design goals <br />
 UIUX AIML modular response system <br />
 Faicey is conceptuatlized as a UIUX AIML modular response system <br /> 
 UIUX = User Interface User Experience <br />
