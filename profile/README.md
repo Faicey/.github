@@ -20,7 +20,8 @@ Objective 5: Modular, Scalable, and Fast Design<br />
 Faicey's modular UI/UX system will be designed with modularity, scalability, and speed in mind. The system's architecture will allow for easy addition or removal of modules, enabling flexibility and accommodating future enhancements. Scalable design patterns and performance optimizations will ensure fast and responsive interactions, minimizing any delays or lag during user interactions. https://github.com/mlodular
 
 Objective 6: Multi-Modal and Multi-Model Integration<br />
-Faicey's modular UI/UX system will support multi-modal and multi-model integration, accommodating various input and output modalities (e.g., text, speech, images) and working seamlessly with multiple generative AI models. The system will provide a unified and consistent user experience regardless of the input or the underlying AI model, enabling users to switch between different modes or models effortlessly.
+Faicey's modular UI/UX system will support multi-modal and multi-model integration, accommodating various input and output modalities (e.g., text, speech, images) and working seamlessly with multiple generative AI models. The system will provide a unified and consistent user experience regardless of the input or the underlying AI model, enabling users to switch between different modes or models effortlessly.<br />
+https://github.com/AUTOMINDx<br />
 
 By focusing on these objectives, Faicey's modular UI/UX system will strive to deliver a user-friendly, highly customizable, and seamlessly integrated interface for users to interact with generative AI models. It will provide real-time feedback, adapt to evolving language models, and ensure a modular, scalable, and fast design.
 
