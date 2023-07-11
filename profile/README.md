@@ -14,10 +14,12 @@ Objective 3: Real-Time Feedback<br />
 Real-time feedback is a crucial aspect of Faicey's modular UI/UX system. Users should receive immediate and actionable feedback as they interact with the system. This feedback can include progress updates, completion notifications, or suggestions to guide users in optimizing their interactions with generative AI models. Real-time feedback ensures a dynamic and responsive user experience.
 
 Objective 4: Seamless Integration with Generative AI Models<br />
-Faicey's modular UI/UX system will prioritize seamless integration with generative AI models. As new language models emerge, the system should be adaptable and capable of integrating with them. APIs, SDKs, or standardized interfaces will be utilized to facilitate smooth integration, enabling users to leverage the latest generative AI models without disrupting their workflow or customizations.
+Faicey's modular UI/UX system will prioritize seamless integration with generative AI models. As new language models emerge, the system should be adaptable and capable of integrating with them. APIs, SDKs, or standardized interfaces will be utilized to facilitate smooth integration, enabling users to leverage the latest generative AI models without disrupting their workflow or customizations.<br />
+https://github.com/Jaimla<br />
 
 Objective 5: Modular, Scalable, and Fast Design<br />
-Faicey's modular UI/UX system will be designed with modularity, scalability, and speed in mind. The system's architecture will allow for easy addition or removal of modules, enabling flexibility and accommodating future enhancements. Scalable design patterns and performance optimizations will ensure fast and responsive interactions, minimizing any delays or lag during user interactions. https://github.com/mlodular
+Faicey's modular UI/UX system will be designed with modularity, scalability, and speed in mind. The system's architecture will allow for easy addition or removal of modules, enabling flexibility and accommodating future enhancements. Scalable design patterns and performance optimizations will ensure fast and responsive interactions, minimizing any delays or lag during user interactions.<br />
+https://github.com/mlodular<br />
 
 Objective 6: Multi-Modal and Multi-Model Integration<br />
 Faicey's modular UI/UX system will support multi-modal and multi-model integration, accommodating various input and output modalities (e.g., text, speech, images) and working seamlessly with multiple generative AI models. The system will provide a unified and consistent user experience regardless of the input or the underlying AI model, enabling users to switch between different modes or models effortlessly.<br />
