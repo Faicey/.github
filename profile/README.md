@@ -15,7 +15,6 @@ Real-time feedback is a crucial aspect of Faicey's modular UI/UX system. Users s
 
 Objective 4: Seamless Integration with Generative AI Models<br />
 Faicey's modular UI/UX system will prioritize seamless integration with generative AI models. As new language models emerge, the system should be adaptable and capable of integrating with them. APIs, SDKs, or standardized interfaces will be utilized to facilitate smooth integration, enabling users to leverage the latest generative AI models without disrupting their workflow or customizations.<br />
-https://github.com/Jaimla<br />
 
 Objective 5: Modular, Scalable, and Fast Design<br />
 Faicey's modular UI/UX system will be designed with modularity, scalability, and speed in mind. The system's architecture will allow for easy addition or removal of modules, enabling flexibility and accommodating future enhancements. Scalable design patterns and performance optimizations will ensure fast and responsive interactions, minimizing any delays or lag during user interactions.<br />
@@ -38,9 +37,9 @@ https://lablab.ai/t/ai-agents-tutorial-how-to-use-and-create-them<br />
 HACKATHONS <br /> 
 https://lablab.ai/event/ai-agents-hackathon-2 <br /> 
 https://lablab.ai/event/eleven-labs-ai-hackathon <br /> 
-WHISPER <br /> 
+WHISPER <br />
 https://lablab.ai/t/whisper-tutorial <br />
-
+<a href="https://github.com/webmindml">AIML 2.0 Working Draft</a> The XML of Artificial Intelligence Markup Language<br />
 RELATED projects <br /> 
 https://github.com/DeltaVML <br /> 
 https://github.com/aiosml <br />
